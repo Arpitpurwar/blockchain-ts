@@ -1,2 +1,2 @@
-# WebhookTest
-Integration of github webhook with Azure Functions
+# blockchain-js
+Implementation of Blockchain concepts in JS
