@@ -1,2 +1,2 @@
 # blockchain-js
-Implementation of Blockchain concepts in JS
+Implementation of Blockchain concepts in Typescript
